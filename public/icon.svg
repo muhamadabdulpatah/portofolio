@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160" role="img" aria-labelledby="titleB">
+  <title id="titleB">MAP badge</title>
+  <circle cx="80" cy="80" r="72" fill="#06B6D4"/>
+  <!-- Negative-space letters -->
+  <g fill="#0F172A">
+    <path d="M34 104 L34 56 L46 56 L62 92 L78 56 L92 56 L92 104 L80 104 L80 78 L66 104 L54 78 L54 104 Z"/>
+    <path d="M100 56h22c8 0 14 6 14 14s-6 14-14 14H100V56zm0 28h22c4 0 8-4 8-8s-4-8-8-8H100v16z"/>
+  </g>
+</svg>
