@@ -31,11 +31,11 @@ const Hero = () => {
       >
         <TypeAnimation
           sequence={[
-            "Front-End Developer 💻",
+            "Full Stack Developer 💻",
             2000,
-            "UI/UX Enthusiast 🎨",
+            "Backend & Frontend Engineer ⚙️",
             2000,
-            "Creative Coder 🚀",
+            "Laravel • CodeIgniter • React.js 🚀",
             2000,
           ]}
           speed={50}
@@ -51,8 +51,11 @@ const Hero = () => {
         animate={{ opacity: 1, y: 0 }}
         transition={{ delay: 1.2, duration: 0.8 }}
       >
-        I build clean, responsive, and dynamic web interfaces with a focus on
-        smooth user experiences and modern aesthetics.
+        I build efficient, scalable, and user-friendly web applications with
+        clean architecture and reliable functionality. My focus is on developing
+        responsive interfaces and robust backend systems using Laravel,
+        CodeIgniter, and React.js to deliver seamless user experiences and
+        optimized performance.
       </motion.p>
 
       {/* Tombol CTA */}

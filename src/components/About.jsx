@@ -45,18 +45,28 @@ const About = () => {
             Hi, I’m <span className="text-accent">Muhamad Abdul Patah</span> 👋
           </h3>
           <p className="leading-relaxed text-gray-400">
-            I’m a passionate{" "}
-            <span className="text-accent">Front-End Developer</span> who loves
-            creating modern, clean, and interactive web experiences. My focus is
-            on crafting responsive designs with
-            <span className="text-accent"> React</span> and
-            <span className="text-accent"> Tailwind CSS</span>, ensuring both
-            performance and beauty.
+            a passionate{" "}
+            <span className="text-accent">Full Stack Developer</span> with over
+            6 years of experience in building and maintaining web-based systems.
+            I specialize in
+            <span className="text-accent">
+              {" "}
+              Laravel, CodeIgniter, React.js
+            </span>{" "}
+            and
+            <span className="text-accent"> JavaScript</span>, with strong
+            expertise in backend architecture, API integration, and responsive
+            front-end development.
           </p>
           <p className="leading-relaxed text-gray-400">
-            When I’m not coding, I enjoy exploring new design trends, learning
-            cutting-edge frameworks, and sharing knowledge with the dev
-            community.
+            I love transforming business requirements into efficient,
+            user-friendly solutions — from designing scalable systems to
+            deploying production-ready apps. As a fast learner and proactive
+            problem solver, I’m always exploring new technologies to enhance
+            productivity and deliver better user experiences. Currently, I’m
+            leading a team as IT Programmer Supervisor at Inti Surya
+            Laboratorium, focusing on improving internal systems, automation,
+            and scalable software solutions.
           </p>
 
           <div className="pt-4">
