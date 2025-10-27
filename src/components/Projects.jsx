@@ -6,12 +6,28 @@ const projects = [
     desc: "A clean and modern personal website built with React & Tailwind CSS.",
   },
   {
-    title: "E-Commerce UI",
-    desc: "A shopping interface with beautiful product cards and smooth animations.",
+    title: "IFAMS – Integrated Field Activity Monitoring System",
+    desc: "A web and mobile-based platform developed for Samora Group to monitor real-time field activities.Built using Laravel, React.js, and API-driven architecture to synchronize data across field and office environments.",
   },
   {
-    title: "Analytics Dashboard",
-    desc: "A minimal admin dashboard for data visualization and tracking.",
+    title: "YMC1 & YMC2 – Canvassing Application for Yakult",
+    desc: "Developed canvassing tools to digitize sales operations and reporting for Yakult field agents, integrating offline data sync and real-time monitoring dashboards.",
+  },
+  {
+    title: "Knowledge Management System – PT. Maybank Indonesia Finance",
+    desc: "Created an enterprise system for internal knowledge sharing, including document management, user access control, and full-text search features.",
+  },
+  {
+    title: "Smartshare Learning Center – PT. Bank Tabungan Negara (BTN)",
+    desc: "Developed an internal e-learning portal with structured content delivery and user progress tracking.",
+  },
+  {
+    title: "Document & Policy Management System – PT. BFI Finance Indonesia",
+    desc: "Implemented a secure, centralized platform for storing and managing corporate documents and policies.",
+  },
+  {
+    title: "Corporate Secretary System – PT. BFI Finance Indonesia",
+    desc: "A compliance-focused application that helps manage corporate governance documentation efficiently.",
   },
 ];
 

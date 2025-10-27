@@ -6,26 +6,41 @@ import {
   FaCss3Alt,
   FaJsSquare,
   FaGitAlt,
+  FaPhp,
+  FaPython,
+  FaLaravel,
 } from "react-icons/fa";
+import { DiCodeigniter } from "react-icons/di";
 import { SiTailwindcss, SiVite } from "react-icons/si";
 
 const skills = [
-  { name: "React", level: 90, icon: <FaReact className="text-sky-400" /> },
+  { name: "React", level: 70, icon: <FaReact className="text-sky-400" /> },
   {
     name: "Tailwind CSS",
-    level: 85,
+    level: 40,
     icon: <SiTailwindcss className="text-sky-300" />,
   },
   {
     name: "JavaScript",
-    level: 88,
+    level: 80,
     icon: <FaJsSquare className="text-yellow-400" />,
   },
-  { name: "Node.js", level: 75, icon: <FaNodeJs className="text-green-500" /> },
+  { name: "Node.js", level: 70, icon: <FaNodeJs className="text-green-500" /> },
   { name: "HTML5", level: 95, icon: <FaHtml5 className="text-orange-500" /> },
   { name: "CSS3", level: 90, icon: <FaCss3Alt className="text-blue-500" /> },
   { name: "Git", level: 80, icon: <FaGitAlt className="text-red-500" /> },
-  { name: "Vite", level: 70, icon: <SiVite className="text-purple-400" /> },
+  {
+    name: "TypeScript",
+    level: 40,
+    icon: <FaJsSquare className="text-blue-500" />,
+  },
+  { name: "PHP", level: 80, icon: <FaPhp className="text-blue-500" /> },
+  { name: "Laravel", level: 80, icon: <FaLaravel className="text-blue-500" /> },
+  {
+    name: "CodeIgniter",
+    level: 80,
+    icon: <DiCodeigniter className="text-blue-500" />,
+  },
 ];
 
 const Skills = () => {
